@@ -32,7 +32,7 @@ All contributors and community members are expected to adhere to our [Code of Co
 
 You don't have to be a compiler engineer to contribute! Here are many high-impact ways to get involved:
 
-- **Good First Issues**: Check out our curated list of [Good First Issues](docs/contributing/good-first-issues.md) or look for the [`good first issue`](https://github.com/SH20RAJ/sanskrit/labels/good%20first%20issue) label on GitHub.
+- **Good First Issues**: Check out our curated list of [Good First Issues](docs/contributing/good-first-issues.md) or look for the [`good first issue`](https://github.com/playlikeboy/sanskrit/labels/good%20first%20issue) label on GitHub.
 - **Documentation & Tutorials**: Improve language guides, add Devanagari grammar explanations, or create step-by-step AI/ML tutorials.
 - **Examples**: Contribute real-world Sanskrit programs to the [`examples/`](examples/) directory (e.g. numerical algorithms, neural networks, games).
 - **Standard Library Modules**: Expand modules in [`std/`](std/) for linear algebra, statistics, file I/O, networking, and string manipulation.
@@ -75,7 +75,7 @@ Sanskrit Next is architected as a modular Rust Cargo workspace in [`crates/`](cr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/SH20RAJ/sanskrit.git
+git clone https://github.com/playlikeboy/sanskrit.git
 cd sanskrit
 ```
 
@@ -192,8 +192,8 @@ docs(contributing): add architecture tour and starter issues
 
 ## Community & Getting Help
 
-- **GitHub Discussions**: Ask questions, share ideas, and showcase projects on [GitHub Discussions](https://github.com/SH20RAJ/sanskrit/discussions).
-- **Issue Tracker**: Report bugs or propose features via [GitHub Issues](https://github.com/SH20RAJ/sanskrit/issues).
-- **Maintainer**: Connect with project maintainer Shaswat Raj ([@SH20RAJ](https://github.com/SH20RAJ)).
+- **GitHub Discussions**: Ask questions, share ideas, and showcase projects on [GitHub Discussions](https://github.com/playlikeboy/sanskrit/discussions).
+- **Issue Tracker**: Report bugs or propose features via [GitHub Issues](https://github.com/playlikeboy/sanskrit/issues).
+- **Maintainer**: Connect with project maintainer Shaswat Raj ([@SH20RAJ](https://github.com/playlikeboy)).
 
 Thank you for helping make Sanskrit Next the premier AI/ML and systems language! 🚀

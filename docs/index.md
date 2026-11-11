@@ -13,7 +13,7 @@ Write beautiful code in देवनागरी (Devanagari) script with the si
 {: .fs-6 .fw-300 }
 
 [Get Started](../getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/sh20raj/sanskrit){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/playlikeboy/sanskrit){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -91,9 +91,9 @@ We welcome contributions from the community! Whether you're fixing bugs, adding 
 
 Join our growing community of Sanskrit programmers:
 
-- **GitHub**: [https://github.com/sh20raj/sanskrit](https://github.com/sh20raj/sanskrit)
-- **Documentation**: [https://sh20raj.github.io/sanskrit/docs](https://sh20raj.github.io/sanskrit/docs)
+- **GitHub**: [https://github.com/playlikeboy/sanskrit](https://github.com/playlikeboy/sanskrit)
+- **Documentation**: [https://playlikeboy.github.io/sanskrit/docs](https://playlikeboy.github.io/sanskrit/docs)
 
 ## License
 
-Sanskrit is open source and available under the MIT License. See [LICENSE](https://github.com/sh20raj/sanskrit/blob/main/LICENSE) for more information.
+Sanskrit is open source and available under the MIT License. See [LICENSE](https://github.com/playlikeboy/sanskrit/blob/main/LICENSE) for more information.

@@ -1,9 +1,9 @@
 # Sanskrit Next (संस्कृत) Full Language Reference & Technical Specification
 
 Version: 2.0.0
-Author: Shaswat Raj (https://github.com/SH20RAJ)
-Repository: https://github.com/SH20RAJ/sanskrit
-Documentation: https://sh20raj.github.io/sanskrit/
+Author: Shaswat Raj (https://github.com/playlikeboy)
+Repository: https://github.com/playlikeboy/sanskrit
+Documentation: https://playlikeboy.github.io/sanskrit/
 
 ---
 

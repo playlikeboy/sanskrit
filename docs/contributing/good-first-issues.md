@@ -61,5 +61,5 @@ Welcome! If you are new to the Sanskrit Next project or compiler engineering in 
 ---
 
 ## Need Help Getting Started?
-- Tag your issue or PR with [`good first issue`](https://github.com/SH20RAJ/sanskrit/labels/good%20first%20issue).
-- Ask any question on [GitHub Discussions](https://github.com/SH20RAJ/sanskrit/discussions)!
+- Tag your issue or PR with [`good first issue`](https://github.com/playlikeboy/sanskrit/labels/good%20first%20issue).
+- Ask any question on [GitHub Discussions](https://github.com/playlikeboy/sanskrit/discussions)!

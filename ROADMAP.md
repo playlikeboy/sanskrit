@@ -91,4 +91,4 @@ v2.0-alpha.1 (Delivered) ──► v2.0-beta (Q4 2026) ──► v2.0-RC (Q1 202
 
 ---
 
-*To propose additions or discuss roadmap items, please participate in [GitHub Discussions](https://github.com/SH20RAJ/sanskrit/discussions) or submit an RFC under `docs/rfc/`.*
+*To propose additions or discuss roadmap items, please participate in [GitHub Discussions](https://github.com/playlikeboy/sanskrit/discussions) or submit an RFC under `docs/rfc/`.*

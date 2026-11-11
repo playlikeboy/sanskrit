@@ -23,7 +23,7 @@ Only the latest active major and maintenance releases receive official security 
 If you believe you have discovered a security vulnerability in the Sanskrit Next compiler, VM, package manager, or VS Code extension, please report it privately using one of the following methods:
 
 1. **GitHub Private Vulnerability Reporting** *(Recommended)*:
-   - Navigate to the [Security Advisories](https://github.com/SH20RAJ/sanskrit/security/advisories) tab of this repository.
+   - Navigate to the [Security Advisories](https://github.com/playlikeboy/sanskrit/security/advisories) tab of this repository.
    - Click **"Report a vulnerability"** to submit a confidential report.
 
 2. **Email Disclosure**:

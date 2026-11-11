@@ -9,7 +9,7 @@ Thank you for using Sanskrit Next! Whether you are learning the language, integr
 Before asking a question, check out our comprehensive documentation:
 
 - **[Language Guide & Tutorial](docs/language-guide.md)**: Syntax, control flow, functions, types, and tensors.
-- **[Interactive Documentation](https://sh20raj.github.io/sanskrit/)**: Live interactive web portal and documentation.
+- **[Interactive Documentation](https://playlikeboy.github.io/sanskrit/)**: Live interactive web portal and documentation.
 - **[RFC Specifications](docs/rfc/)**: Detailed architectural and language design RFCs.
 - **[Legacy Migration Guide](docs/migration/legacy-to-next.md)**: Migrating from v0.3 Node prototype to Sanskrit Next 2.0.
 
@@ -19,16 +19,16 @@ Before asking a question, check out our comprehensive documentation:
 
 ### GitHub Discussions
 For general questions, design ideas, architecture debates, and showcasing projects:
-- **[Q&A](https://github.com/SH20RAJ/sanskrit/discussions/categories/q-a)**: Ask questions about syntax, compiling, or standard library usage.
-- **[Ideas & RFCs](https://github.com/SH20RAJ/sanskrit/discussions/categories/ideas)**: Pitch language features or improvements.
-- **[Show and Tell](https://github.com/SH20RAJ/sanskrit/discussions/categories/show-and-tell)**: Share what you've built with Sanskrit Next!
+- **[Q&A](https://github.com/playlikeboy/sanskrit/discussions/categories/q-a)**: Ask questions about syntax, compiling, or standard library usage.
+- **[Ideas & RFCs](https://github.com/playlikeboy/sanskrit/discussions/categories/ideas)**: Pitch language features or improvements.
+- **[Show and Tell](https://github.com/playlikeboy/sanskrit/discussions/categories/show-and-tell)**: Share what you've built with Sanskrit Next!
 
 ### GitHub Issues
-Use [GitHub Issues](https://github.com/SH20RAJ/sanskrit/issues) **only for reproducible bugs and formal feature proposals**:
+Use [GitHub Issues](https://github.com/playlikeboy/sanskrit/issues) **only for reproducible bugs and formal feature proposals**:
 - **Bug Reports**: Unexpected compiler errors, VM crashes, parser failures, or diagnostic regressions.
 - **Feature Requests**: Specific, actionable enhancements to the compiler, standard library, or tooling.
 
-*Note: For debugging your personal code or general questions, please use [GitHub Discussions](https://github.com/SH20RAJ/sanskrit/discussions).*
+*Note: For debugging your personal code or general questions, please use [GitHub Discussions](https://github.com/playlikeboy/sanskrit/discussions).*
 
 ---
 
@@ -45,4 +45,4 @@ To help maintainers diagnose and resolve problems quickly:
 ## 4. Professional & Commercial Support
 
 For enterprise inquiries, academic partnerships, or sponsorship opportunities, reach out directly to the maintainer:
-- **Shaswat Raj**: [@SH20RAJ](https://github.com/SH20RAJ)
+- **Shaswat Raj**: [@SH20RAJ](https://github.com/playlikeboy)

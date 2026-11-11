@@ -3,8 +3,8 @@
 > A safe, extremely fast, scientifically powerful, AI/ML-native systems language with dual-script invariance (Devanagari & Latin) and zero external runtime dependencies.
 
 ## Key Information
-- Canonical Website: https://sh20raj.github.io/sanskrit/
-- GitHub Repository: https://github.com/SH20RAJ/sanskrit
+- Canonical Website: https://playlikeboy.github.io/sanskrit/
+- GitHub Repository: https://github.com/playlikeboy/sanskrit
 - Current Version: 2.0.0 (Native Rust Architecture)
 - Visual Studio Code Marketplace: https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode
 - License: MIT License
@@ -17,9 +17,9 @@
 - Zero Node.js Dependencies: 100% native Rust systems toolchain; standalone 4.2 MB executable.
 
 ## Documentation Index
-- [Getting Started](https://sh20raj.github.io/sanskrit/getting-started.html): Installation via curl, toolchain setup, and hello world in Devanagari and Latin.
-- [Language Guide](https://sh20raj.github.io/sanskrit/language-guide.html): Syntax grammar, control flow, type system, and memory semantics.
-- [AI Skill Specification](https://sh20raj.github.io/sanskrit/skill.html): Master skill file for LLMs, Claude, ChatGPT, Cursor, and Antigravity.
-- [RFC & Design Proposals](https://github.com/SH20RAJ/sanskrit/tree/main/docs/rfc): Compiler architecture, MLIR dialect specification, and memory safety model.
-- [Benchmarks](https://github.com/SH20RAJ/sanskrit/tree/main/benchmarks): Empirical latency, GEMM benchmarks, and memory telemetry.
-- [Full Context for LLMs](https://sh20raj.github.io/sanskrit/llms-full.txt): Dense technical dump of the entire language specification for prompt engineering.
+- [Getting Started](https://playlikeboy.github.io/sanskrit/getting-started.html): Installation via curl, toolchain setup, and hello world in Devanagari and Latin.
+- [Language Guide](https://playlikeboy.github.io/sanskrit/language-guide.html): Syntax grammar, control flow, type system, and memory semantics.
+- [AI Skill Specification](https://playlikeboy.github.io/sanskrit/skill.html): Master skill file for LLMs, Claude, ChatGPT, Cursor, and Antigravity.
+- [RFC & Design Proposals](https://github.com/playlikeboy/sanskrit/tree/main/docs/rfc): Compiler architecture, MLIR dialect specification, and memory safety model.
+- [Benchmarks](https://github.com/playlikeboy/sanskrit/tree/main/benchmarks): Empirical latency, GEMM benchmarks, and memory telemetry.
+- [Full Context for LLMs](https://playlikeboy.github.io/sanskrit/llms-full.txt): Dense technical dump of the entire language specification for prompt engineering.

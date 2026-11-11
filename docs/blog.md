@@ -97,7 +97,7 @@ One article that really helped me was [The Programming Language Pipeline by free
 
 ## For Now, It’s Just for Fun 😄  
 
-I built this as a fun project, but who knows? If people love it (that’s you!), I might take it further. If you want to collaborate or just check it out, the project is on GitHub: [https://github.com/sh20raj/sanskrit](https://github.com/sh20raj/sanskrit).  
+I built this as a fun project, but who knows? If people love it (that’s you!), I might take it further. If you want to collaborate or just check it out, the project is on GitHub: [https://github.com/playlikeboy/sanskrit](https://github.com/playlikeboy/sanskrit).  
 
 Find a bug 🐛? Got a cool idea 💡? Head to the repo and let me know!  
 

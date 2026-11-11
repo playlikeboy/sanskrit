@@ -33,7 +33,7 @@ npm install -g sanskrit-lang
 ### Option 2: Standalone Bash Installer (Without npm)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/playlikeboy/sanskrit/main/install.sh | bash
 ```
 
 Verify your installation:
@@ -126,4 +126,4 @@ sanskrit repl
 
 1. Check out the [Language Guide](../language-guide) for full syntax and features
 2. Explore [Examples](../examples)
-3. Join our [GitHub community](https://github.com/sh20raj/sanskrit)
+3. Join our [GitHub community](https://github.com/playlikeboy/sanskrit)

@@ -23,4 +23,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://sh20raj.github.io/sanskrit/sitemap.xml
+Sitemap: https://playlikeboy.github.io/sanskrit/sitemap.xml

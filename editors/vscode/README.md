@@ -25,11 +25,11 @@
 ---
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/assets/sanskrit-demo.mp4">
-    <img src="https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/media/sanskrit-demo.gif" alt="Sanskrit Next Terminal Live Demo" width="940" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  <a href="https://raw.githubusercontent.com/playlikeboy/sanskrit/main/assets/sanskrit-demo.mp4">
+    <img src="https://raw.githubusercontent.com/playlikeboy/sanskrit/main/media/sanskrit-demo.gif" alt="Sanskrit Next Terminal Live Demo" width="940" style="max-width: 100%; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
   </a>
   <br>
-  <em>⚡ <b>Live Terminal Execution</b>: Sub-2ms cold boot, dual-script execution, linear algebra tensors, compiler doctor & benchmarks. <a href="https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/assets/sanskrit-demo.mp4"><b>[📹 Download Full HD MP4 Video]</b></a></em>
+  <em>⚡ <b>Live Terminal Execution</b>: Sub-2ms cold boot, dual-script execution, linear algebra tensors, compiler doctor & benchmarks. <a href="https://raw.githubusercontent.com/playlikeboy/sanskrit/main/assets/sanskrit-demo.mp4"><b>[📹 Download Full HD MP4 Video]</b></a></em>
 </p>
 
 ---
@@ -198,8 +198,8 @@ Customize every aspect of Sanskrit Next via `Settings -> Extensions -> Sanskrit 
 
 - **Visual Studio Marketplace**: [https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode](https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode)
 - **Extension Identifier**: `sh20raj.sanskrit-vscode`
-- **Official GitHub Release**: [GitHub Release `vscode-v2.0.3`](https://github.com/SH20RAJ/sanskrit/releases/tag/vscode-v2.0.3)
-- **Direct VSIX Download**: [Download `sanskrit-vscode-2.0.3.vsix`](https://github.com/SH20RAJ/sanskrit/releases/download/vscode-v2.0.3/sanskrit-vscode-2.0.3.vsix)
+- **Official GitHub Release**: [GitHub Release `vscode-v2.0.3`](https://github.com/playlikeboy/sanskrit/releases/tag/vscode-v2.0.3)
+- **Direct VSIX Download**: [Download `sanskrit-vscode-2.0.3.vsix`](https://github.com/playlikeboy/sanskrit/releases/download/vscode-v2.0.3/sanskrit-vscode-2.0.3.vsix)
 - **SHA256**: `3c2398b75e3975bcc84b3f319d65d51e632f58b3c0e28f09d2f1debf8e9a933d`
 
 ### Install from VS Code Marketplace
@@ -214,7 +214,7 @@ In VS Code or Antigravity IDE:
 code --install-extension sh20raj.sanskrit-vscode
 
 # Or from downloaded VSIX
-curl -L -O https://github.com/SH20RAJ/sanskrit/releases/download/vscode-v2.0.0/sanskrit-vscode-2.0.0.vsix
+curl -L -O https://github.com/playlikeboy/sanskrit/releases/download/vscode-v2.0.0/sanskrit-vscode-2.0.0.vsix
 code --install-extension sanskrit-vscode-2.0.0.vsix
 ```
 
@@ -224,7 +224,7 @@ code --install-extension sanskrit-vscode-2.0.0.vsix
 
 1. Install Sanskrit Next compiler on your system:
    ```bash
-   curl --proto "=https" --tlsv1.2 -sSf https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/install.sh | bash
+   curl --proto "=https" --tlsv1.2 -sSf https://raw.githubusercontent.com/playlikeboy/sanskrit/main/install.sh | bash
    ```
 2. Open any `.skt` or `.sns` file in VS Code.
 3. Click the **Run** button in the top right or press `Cmd+Shift+P` -> `Sanskrit: Run Active File`.

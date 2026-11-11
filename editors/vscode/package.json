@@ -6,15 +6,15 @@
   "publisher": "sh20raj",
   "author": {
     "name": "Shaswat Raj",
-    "url": "https://github.com/SH20RAJ"
+    "url": "https://github.com/playlikeboy"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SH20RAJ/sanskrit"
+    "url": "https://github.com/playlikeboy/sanskrit"
   },
   "bugs": {
-    "url": "https://github.com/SH20RAJ/sanskrit/issues"
+    "url": "https://github.com/playlikeboy/sanskrit/issues"
   },
   "engines": {
     "vscode": "^1.85.0"

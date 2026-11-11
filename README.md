@@ -2,18 +2,18 @@
 
 <div align="center">
 
-[![CI](https://github.com/SH20RAJ/sanskrit/actions/workflows/ci.yml/badge.svg)](https://github.com/SH20RAJ/sanskrit/actions/workflows/ci.yml)
-[![Release](https://github.com/SH20RAJ/sanskrit/actions/workflows/release.yml/badge.svg)](https://github.com/SH20RAJ/sanskrit/releases)
+[![CI](https://github.com/playlikeboy/sanskrit/actions/workflows/ci.yml/badge.svg)](https://github.com/playlikeboy/sanskrit/actions/workflows/ci.yml)
+[![Release](https://github.com/playlikeboy/sanskrit/actions/workflows/release.yml/badge.svg)](https://github.com/playlikeboy/sanskrit/releases)
 [![Visual Studio Marketplace](https://img.shields.io/badge/VS%20Marketplace-v2.0.0-007ACC?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode)
-[![Benchmarks](https://github.com/SH20RAJ/sanskrit/actions/workflows/benchmarks.yml/badge.svg)](https://github.com/SH20RAJ/sanskrit/actions/workflows/benchmarks.yml)
+[![Benchmarks](https://github.com/playlikeboy/sanskrit/actions/workflows/benchmarks.yml/badge.svg)](https://github.com/playlikeboy/sanskrit/actions/workflows/benchmarks.yml)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Discussions](https://img.shields.io/badge/Discussions-Join-orange?logo=github)](https://github.com/SH20RAJ/sanskrit/discussions)
+[![Discussions](https://img.shields.io/badge/Discussions-Join-orange?logo=github)](https://github.com/playlikeboy/sanskrit/discussions)
 [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Roadmap](https://img.shields.io/badge/Roadmap-View-blueviolet)](ROADMAP.md)
 
 **A safe, extremely fast, scientifically powerful, AI/ML-native systems language with exceptional developer experience and a distinctive Sanskrit identity.**
 
-[Documentation](https://sh20raj.github.io/sanskrit/) • [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode) • [RFC Catalog](https://github.com/SH20RAJ/sanskrit/tree/main/docs/rfc) • [Benchmarks](https://github.com/SH20RAJ/sanskrit/tree/main/benchmarks) • [Roadmap](ROADMAP.md) • [Discussions](https://github.com/SH20RAJ/sanskrit/discussions)
+[Documentation](https://playlikeboy.github.io/sanskrit/) • [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode) • [RFC Catalog](https://github.com/playlikeboy/sanskrit/tree/main/docs/rfc) • [Benchmarks](https://github.com/playlikeboy/sanskrit/tree/main/benchmarks) • [Roadmap](ROADMAP.md) • [Discussions](https://github.com/playlikeboy/sanskrit/discussions)
 
 <br>
 
@@ -52,7 +52,7 @@
 ---
 
 > [!NOTE]
-> **Sanskrit Next (v2.0+)** represents a greenfield, research-grade systems language implemented natively in Rust with an MLIR/LLVM-first compiler pipeline. The previous Node.js educational prototype is permanently archived in [GitHub Release v0.3.0-legacy](https://github.com/SH20RAJ/sanskrit/releases/tag/v0.3.0-legacy) on the [`legacy/v0.3`](https://github.com/SH20RAJ/sanskrit/tree/legacy/v0.3) branch.
+> **Sanskrit Next (v2.0+)** represents a greenfield, research-grade systems language implemented natively in Rust with an MLIR/LLVM-first compiler pipeline. The previous Node.js educational prototype is permanently archived in [GitHub Release v0.3.0-legacy](https://github.com/playlikeboy/sanskrit/releases/tag/v0.3.0-legacy) on the [`legacy/v0.3`](https://github.com/playlikeboy/sanskrit/tree/legacy/v0.3) branch.
 
 ---
 
@@ -72,7 +72,7 @@ Sanskrit Next is built on five empirically verified architectural commitments:
 
 ### Installation (POSIX / macOS / Linux / Windows)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/playlikeboy/sanskrit/main/install.sh | sh
 ```
 Or manage versions via `sanskritup`:
 ```bash
@@ -235,8 +235,8 @@ Sanskrit Next features an official, first-class language platform extension for 
 
 - **Visual Studio Marketplace**: [https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode](https://marketplace.visualstudio.com/items?itemName=sh20raj.sanskrit-vscode)
 - **Extension Identifier**: `sh20raj.sanskrit-vscode`
-- **Latest Release**: [`vscode-v2.0.3`](https://github.com/SH20RAJ/sanskrit/releases/tag/vscode-v2.0.3)
-- **Direct VSIX Download**: [Download `sanskrit-vscode-2.0.3.vsix`](https://github.com/SH20RAJ/sanskrit/releases/download/vscode-v2.0.3/sanskrit-vscode-2.0.3.vsix)
+- **Latest Release**: [`vscode-v2.0.3`](https://github.com/playlikeboy/sanskrit/releases/tag/vscode-v2.0.3)
+- **Direct VSIX Download**: [Download `sanskrit-vscode-2.0.3.vsix`](https://github.com/playlikeboy/sanskrit/releases/download/vscode-v2.0.3/sanskrit-vscode-2.0.3.vsix)
 
 ### Instant Installation
 
@@ -320,7 +320,7 @@ We welcome contributions from compiler engineers, linguists, systems programmers
 - 📜 **[Code of Conduct](CODE_OF_CONDUCT.md)**: Contributor Covenant v2.1 standards.
 - 🗺️ **[Roadmap](ROADMAP.md)**: Multi-phase engineering roadmap and milestones.
 - 🛡️ **[Security Policy](SECURITY.md)**: Vulnerability disclosure and bug bounty guidelines.
-- 💬 **[GitHub Discussions](https://github.com/SH20RAJ/sanskrit/discussions)**: Community Q&A, design ideas, and show-and-tell.
+- 💬 **[GitHub Discussions](https://github.com/playlikeboy/sanskrit/discussions)**: Community Q&A, design ideas, and show-and-tell.
 - 📄 **[Academic Citation](CITATION.cff)**: How to cite Sanskrit Next in research papers.
 
 ---

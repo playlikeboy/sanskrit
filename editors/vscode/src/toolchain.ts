@@ -188,12 +188,12 @@ export class ToolchainManager {
             progress.report({ message: 'Fetching release from GitHub...' });
             const { execSync } = require('child_process');
             if (process.platform === 'win32') {
-              execSync('powershell -Command "irm https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/install.ps1 | iex"', {
+              execSync('powershell -Command "irm https://raw.githubusercontent.com/playlikeboy/sanskrit/main/install.ps1 | iex"', {
                 timeout: 60000,
                 encoding: 'utf8',
               });
             } else {
-              execSync('curl --proto "=https" --tlsv1.2 -fsSL https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/install.sh | bash', {
+              execSync('curl --proto "=https" --tlsv1.2 -fsSL https://raw.githubusercontent.com/playlikeboy/sanskrit/main/install.sh | bash', {
                 timeout: 60000,
                 encoding: 'utf8',
               });

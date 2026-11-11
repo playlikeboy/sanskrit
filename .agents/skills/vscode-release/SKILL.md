@@ -29,7 +29,7 @@ Governs the build, bundle, verification, packaging, and distribution pipelines f
 - `icon`: 128x128 or 256x256 PNG or SVG icon adhering to visual guidelines.
 - `categories`: `["Programming Languages", "Linters", "Formatters", "Debuggers", "Testing"]`
 - `badges`: CI status, Marketplace version, Discord/Community links.
-- `repository`: `https://github.com/SH20RAJ/sanskrit`
+- `repository`: `https://github.com/playlikeboy/sanskrit`
 
 ### 3. Verification Commands
 ```bash

@@ -4,7 +4,7 @@
 
 set -eu
 
-REPO="SH20RAJ/sanskrit"
+REPO="playlikeboy/sanskrit"
 INSTALL_DIR="${SANSKRIT_HOME:-$HOME/.sanskrit}"
 BIN_DIR="$INSTALL_DIR/bin"
 VERSION="${SANSKRIT_VERSION:-latest}"
@@ -80,7 +80,7 @@ COMMAND="${1:-help}"
 case "$COMMAND" in
     update)
         echo "Updating Sanskrit Next to latest release..."
-        curl -fsSL https://raw.githubusercontent.com/SH20RAJ/sanskrit/main/install.sh | sh
+        curl -fsSL https://raw.githubusercontent.com/playlikeboy/sanskrit/main/install.sh | sh
         ;;
     version)
         sanskrit --version

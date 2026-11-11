@@ -75,6 +75,6 @@ fn main():
 ## 4. Accessing Legacy Releases
 
 The original Node.js prototype source code and artifacts remain permanently archived on GitHub:
-- Branch: [`legacy/v0.3`](https://github.com/SH20RAJ/sanskrit/tree/legacy/v0.3)
-- GitHub Release: [Sanskrit Legacy v0.3.0](https://github.com/SH20RAJ/sanskrit/releases/tag/v0.3.0-legacy)
+- Branch: [`legacy/v0.3`](https://github.com/playlikeboy/sanskrit/tree/legacy/v0.3)
+- GitHub Release: [Sanskrit Legacy v0.3.0](https://github.com/playlikeboy/sanskrit/releases/tag/v0.3.0-legacy)
 - npm package: `npm install -g sanskrit-lang@0.3.0`
